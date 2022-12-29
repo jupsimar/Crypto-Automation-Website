@@ -1,2 +1,2 @@
-# Crypto-Automation-Website-API-Pull-Using-Python
+# Crypto Automation Website
 Automating on Crypto Website 
